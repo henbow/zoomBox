@@ -1,0 +1,1 @@
+Simple jQuery plugin to zoom image when mouse hover like google image
